@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Already have an account Sign in now_c_cba2fd</name>
+   <tag></tag>
+   <elementGuidId>06a909aa-6c44-4c6d-b85c-3453612141bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='confirmPassword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;confirmPassword&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Confirm Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>56af275c-981e-4cb4-b01a-ba941c1498b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-2 py-2 rounded-lg border-2 focus:outline-none</value>
+      <webElementGuid>14241ec1-7c9f-4f4f-9dcf-5dcea50fe45b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>confirmPassword</value>
+      <webElementGuid>d9bd7d90-6116-498d-892e-eeba43f9a608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>88c1a4cd-30bb-4df4-8bda-5b019be93fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Confirm Password</value>
+      <webElementGuid>93dbaaab-8446-4a34-a7e5-672196c76eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-border px-4 lg:w-2/5 md:w-4/5 sm:w-full flex flex-col items-center justify-center&quot;]/form[@class=&quot;flex flex-col items-center justify-center w-full gap-4 min-w-96 max-w-lg&quot;]/input[@class=&quot;w-full px-2 py-2 rounded-lg border-2 focus:outline-none&quot;]</value>
+      <webElementGuid>568b8883-fb00-4b60-b17f-fe23e7556c26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='confirmPassword']</value>
+      <webElementGuid>5b9f18ca-1821-4b90-8bc6-44610e92dfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/form/input[4]</value>
+      <webElementGuid>21dcc9ed-2ef0-47aa-9ab7-dbcb9f9f1e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[4]</value>
+      <webElementGuid>835367d9-8ffa-4513-8892-0830895888a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'confirmPassword' and @type = 'password' and @placeholder = 'Confirm Password']</value>
+      <webElementGuid>3102bc4d-a1d7-4fa5-b826-15efd339d71f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

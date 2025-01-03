@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Need an account Register now</name>
+   <tag></tag>
+   <elementGuidId>785d13f3-a3e6-4bcc-8650-ae311925288f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/form/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.col-start-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Need an account? Register now!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8a7a8ccc-d14c-4827-b571-183989d1e4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-start-3</value>
+      <webElementGuid>0b54575f-b1e1-4d54-81ec-b16f147b7765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>5d4fb76c-df5e-4c18-b6e5-083741ce05ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Need an account? Register now!</value>
+      <webElementGuid>b0a6a5a9-a0b9-45cc-b29b-f7451d2b93e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-border px-4 lg:w-2/5 md:w-4/5 sm:w-full flex flex-col items-center justify-center&quot;]/form[@class=&quot;flex flex-col items-center justify-center w-full gap-4 min-w-96 max-w-lg&quot;]/div[@class=&quot;container grid grid-cols-3&quot;]/a[@class=&quot;col-start-3&quot;]</value>
+      <webElementGuid>482f6d46-ce60-4a5f-83a5-50ed448a10a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/form/div/a[2]</value>
+      <webElementGuid>f30df8c8-ff17-4cf6-90c3-1a41bd926ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Need an account? Register now!')]</value>
+      <webElementGuid>8176dc88-5a31-45e5-9ac1-64a582e79c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::a[1]</value>
+      <webElementGuid>82ac6e94-5356-4fbf-8194-b57ec54c3a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Need an account? Register now!']/parent::*</value>
+      <webElementGuid>c274e618-81fd-471e-baae-db3f01aa63f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/register')]</value>
+      <webElementGuid>ddf6d010-5598-48a4-b232-fee43f460046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>95bbb50a-83ff-44d2-8ba4-0847c33f2066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/register' and (text() = 'Need an account? Register now!' or . = 'Need an account? Register now!')]</value>
+      <webElementGuid>7c7cd3c0-c38f-4de4-866f-bd9440bc56be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

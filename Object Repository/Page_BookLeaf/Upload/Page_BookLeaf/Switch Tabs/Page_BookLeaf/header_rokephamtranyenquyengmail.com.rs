@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_rokephamtranyenquyengmail.com</name>
+   <tag></tag>
+   <elementGuidId>9b0de515-9b98-438a-9573-82c5e821053d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div/div[2]/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.bg-green-100.p-4.flex.justify-between.items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>header >> internal:has-text=&quot;rokephamtranyenquyen@gmail.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>10a54db9-7f39-45ca-9e1b-6ca74754456d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-green-100 p-4 flex justify-between items-center</value>
+      <webElementGuid>fb6b922b-ed05-4f95-81b1-e925075744c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>rokephamtranyenquyen@gmail.com</value>
+      <webElementGuid>fa54289a-e884-4615-88ec-fcac703dacef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-[1420px] mx-auto&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/main[@class=&quot;flex-grow overflow-y-auto&quot;]/div[@class=&quot;flex h-screen mx-auto my-0&quot;]/div[@class=&quot;flex-grow bg-gray-50&quot;]/header[@class=&quot;bg-green-100 p-4 flex justify-between items-center&quot;]</value>
+      <webElementGuid>8b7e7b64-557c-42c8-8559-978f39b0ccab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div/div[2]/header</value>
+      <webElementGuid>05a9badb-32c0-4e26-b0c7-ebbe3f2bf3c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Following'])[1]/following::header[1]</value>
+      <webElementGuid>26824241-afd6-4099-80de-9d6b09552f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/following::header[1]</value>
+      <webElementGuid>6b8f9b24-9454-4d9b-951f-989981490860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Me'])[1]/preceding::header[1]</value>
+      <webElementGuid>1088e45e-7ed9-4541-91bc-c6bb1adb1378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/header</value>
+      <webElementGuid>3f58a071-7f28-40b9-b723-7f65f1ca3a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'rokephamtranyenquyen@gmail.com' or . = 'rokephamtranyenquyen@gmail.com')]</value>
+      <webElementGuid>deb94ad9-176b-4f15-ae8d-6d44ce63ff95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

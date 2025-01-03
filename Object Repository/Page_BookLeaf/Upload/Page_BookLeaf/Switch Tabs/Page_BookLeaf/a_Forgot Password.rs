@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot Password</name>
+   <tag></tag>
+   <elementGuidId>9e6660eb-dcc6-470b-a1a3-3d6f9b090b85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/form/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.col-start-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Forgot Password?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a83fb84f-e20d-4207-8110-34578e45584a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-start-1</value>
+      <webElementGuid>4d3675ad-01ae-4916-9073-c3d5d1a6e4eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/reset-password</value>
+      <webElementGuid>58e5e56d-afaa-4bb4-b2fd-308720a064d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot Password?</value>
+      <webElementGuid>a0049cd2-7e01-44a5-bad2-6c4a25c7bd2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-border px-4 lg:w-2/5 md:w-4/5 sm:w-full flex flex-col items-center justify-center&quot;]/form[@class=&quot;flex flex-col items-center justify-center w-full gap-4 min-w-96 max-w-lg&quot;]/div[@class=&quot;container grid grid-cols-3&quot;]/a[@class=&quot;col-start-1&quot;]</value>
+      <webElementGuid>5a5e0f9b-c031-4312-87eb-152d6668b1d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/form/div/a</value>
+      <webElementGuid>a81362ca-52fa-4493-98fe-226d8d8b13fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot Password?')]</value>
+      <webElementGuid>ac48bac0-f519-4fe1-aace-91f63c101d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need an account? Register now!'])[1]/preceding::a[1]</value>
+      <webElementGuid>cb75b9bd-f201-4e5b-a19c-d8b8bdf20b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot Password?']/parent::*</value>
+      <webElementGuid>b01bc977-1b69-43af-a784-9f9faa16b014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/reset-password')]</value>
+      <webElementGuid>e940e516-22fc-4d57-9478-9c5dc67ea9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/a</value>
+      <webElementGuid>f87b295b-f7d4-4fc5-ac72-0a283fa4b881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/reset-password' and (text() = 'Forgot Password?' or . = 'Forgot Password?')]</value>
+      <webElementGuid>7be55319-f92e-46ef-915b-242f21866cbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

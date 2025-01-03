@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Currently Reading_h-full object-cover r_c382f1</name>
+   <tag></tag>
+   <elementGuidId>aca6d92a-d4b6-45f0-bc20-1a5d67888882</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div/div[2]/main/div/div/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.h-full.object-cover.rounded-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Sherlock Holmes&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4536b373-f05d-4ccc-820f-e72054b2cfb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://atrqftvmpusermtenrvu.supabase.co/storage/v1/object/public/cover_images/1735745881471-sachmoi.net_sherlock_holmes_toan_tap.epubcover.jpg</value>
+      <webElementGuid>c7f6ee0b-1678-4300-90dc-b55e9f08e0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sherlock Holmes</value>
+      <webElementGuid>35d8148c-666a-4111-aae7-3aa830b6eb12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full object-cover rounded-lg</value>
+      <webElementGuid>2c454280-135f-4837-9b93-9290cdace361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-[1420px] mx-auto&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/main[@class=&quot;flex-grow overflow-y-auto&quot;]/div[@class=&quot;flex h-screen mx-auto my-0&quot;]/div[@class=&quot;flex-grow bg-gray-50&quot;]/main[1]/div[@class=&quot;p-6&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 auto-rows-fr&quot;]/div[@class=&quot;bg-white p-2 rounded-lg shadow hover:shadow-md transition-shadow flex flex-col&quot;]/div[@class=&quot;h-52 justify-center flex&quot;]/img[@class=&quot;h-full object-cover rounded-lg&quot;]</value>
+      <webElementGuid>0a4e8363-5a84-4bda-8ac7-c40ee6584107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div/div[2]/main/div/div/div/div/div/div/img</value>
+      <webElementGuid>2622d45e-a63a-4746-9d3e-d491a4fd968a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sherlock Holmes']</value>
+      <webElementGuid>d3e4a153-6ce8-43e6-998e-de6a1d753dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/img</value>
+      <webElementGuid>edd1aff2-7a8d-4bd8-98c3-50ff59e5fbbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://atrqftvmpusermtenrvu.supabase.co/storage/v1/object/public/cover_images/1735745881471-sachmoi.net_sherlock_holmes_toan_tap.epubcover.jpg' and @alt = 'Sherlock Holmes']</value>
+      <webElementGuid>c49bdcb5-8ef4-4f50-9468-7c92865f235e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

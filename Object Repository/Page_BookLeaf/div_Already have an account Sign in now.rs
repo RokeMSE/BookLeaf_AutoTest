@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Already have an account Sign in now</name>
+   <tag></tag>
+   <elementGuidId>d21e7c64-5510-46e6-9722-f5644959c1e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#root div >> internal:has-text=&quot;RegisterAlready have an account? Sign in now!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ae8513e7-354f-495d-9637-62e6b61261fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-border px-4 lg:w-2/5 md:w-4/5 sm:w-full flex flex-col items-center justify-center</value>
+      <webElementGuid>c12572da-c121-4f8e-a75d-820bfbb8c946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Already have an account? Sign in now!</value>
+      <webElementGuid>dee0fef1-7c70-4080-b05e-a535fed20a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-border px-4 lg:w-2/5 md:w-4/5 sm:w-full flex flex-col items-center justify-center&quot;]</value>
+      <webElementGuid>fbdd1aad-b1d1-470c-8f73-8b584093748a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]</value>
+      <webElementGuid>2fb68c04-2065-4d4b-970b-333b184002fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>546b6fe1-e8b8-4549-861b-d3114cbeec21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Already have an account? Sign in now!' or . = 'Already have an account? Sign in now!')]</value>
+      <webElementGuid>b0b73766-835f-4591-bb9e-2d3eb1768875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

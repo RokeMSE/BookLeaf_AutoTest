@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SeapeasSeapeas</name>
+   <tag></tag>
+   <elementGuidId>5c1761ae-314e-4990-b680-cacb0ac11cd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Seapeas Seapeas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1605ff23-a7a1-41d3-933b-fa15de5bd703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow flex items-center cursor-pointer</value>
+      <webElementGuid>bf767cde-1d9d-40c1-aa23-9a5d4bdc7b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SeapeasSeapeas</value>
+      <webElementGuid>1bec8909-d4ae-4e25-bb4f-da25a5ccd63b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full p-10 h-full&quot;]/div[@class=&quot;grid grid-cols-4 mt-6 gap-4&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 auto-rows-fr&quot;]/a[1]/div[@class=&quot;bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow flex items-center cursor-pointer&quot;]</value>
+      <webElementGuid>2528b0d1-7991-4474-9346-fc5eacd5d42d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div/a/div</value>
+      <webElementGuid>df552ca7-e568-44dd-8dbe-6da147152dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dodinhhai29904@gmail.com'])[1]/following::div[3]</value>
+      <webElementGuid>508d2efa-15f5-4206-9686-89385f1fa4e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seapeas'])[1]/following::div[4]</value>
+      <webElementGuid>c0afabe0-20c3-474e-9c0b-d7f198abb9cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div</value>
+      <webElementGuid>600ac342-6e22-49c2-970f-f14329df73f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SeapeasSeapeas' or . = 'SeapeasSeapeas')]</value>
+      <webElementGuid>f7b1d4db-384a-4141-9088-01299981cef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

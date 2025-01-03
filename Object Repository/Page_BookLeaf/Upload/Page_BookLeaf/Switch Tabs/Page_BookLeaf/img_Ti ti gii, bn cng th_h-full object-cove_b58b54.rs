@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Ti ti gii, bn cng th_h-full object-cove_b58b54</name>
+   <tag></tag>
+   <elementGuidId>65a4517b-c9b4-4035-b7d7-798e92900878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div/div[3]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Tỷ phú bán giày&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9b156ddb-0099-4c8f-83be-4bd1e2c1f8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://atrqftvmpusermtenrvu.supabase.co/storage/v1/object/public/cover_images/1735761117430-sachmoi.net_ty_phu_ban_giay.epubcover.jpg</value>
+      <webElementGuid>756b9938-9bc1-43e1-a652-ffeeac1bc387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Tỷ phú bán giày</value>
+      <webElementGuid>1b30ba4c-2f3d-4a01-808f-5723a60f41c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full object-cover rounded-lg</value>
+      <webElementGuid>db80075b-d90c-4d11-814e-e998a117ad64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full p-10 h-full&quot;]/div[@class=&quot;grid grid-cols-4 mt-6 gap-1&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 auto-rows-fr&quot;]/div[@class=&quot;bg-white p-2 rounded-lg shadow hover:shadow-md transition-shadow flex flex-col cursor-pointer&quot;]/div[@class=&quot;h-52 justify-center flex&quot;]/img[@class=&quot;h-full object-cover rounded-lg&quot;]</value>
+      <webElementGuid>02562a26-3264-4af4-947f-6a6b3ef8d737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div/div[3]/div/img</value>
+      <webElementGuid>abdd36b9-c0cc-4524-801e-3441471214c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Tỷ phú bán giày']</value>
+      <webElementGuid>6c83af3c-522d-4da0-89e6-d818c6177595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>f79f4431-a122-4cf0-91c4-8215df91b382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://atrqftvmpusermtenrvu.supabase.co/storage/v1/object/public/cover_images/1735761117430-sachmoi.net_ty_phu_ban_giay.epubcover.jpg' and @alt = 'Tỷ phú bán giày']</value>
+      <webElementGuid>44f6cc8a-e243-401b-b691-8e194d656b5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_T ph bn giy_h-52 justify-center flex</name>
+   <tag></tag>
+   <elementGuidId>4f624d7f-99eb-4aec-85f2-d35041c3eeb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^1Q84Haruki Murakami0 pages$/ >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eca47888-5354-4341-b1c2-c4f50410f09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-52 justify-center flex</value>
+      <webElementGuid>fc95c849-7693-4d13-a29d-452f8018e267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full p-10 h-full&quot;]/div[@class=&quot;grid grid-cols-4 mt-6 gap-1&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 auto-rows-fr&quot;]/div[@class=&quot;bg-white p-2 rounded-lg shadow hover:shadow-md transition-shadow flex flex-col cursor-pointer&quot;]/div[@class=&quot;h-52 justify-center flex&quot;]</value>
+      <webElementGuid>39b3ccfd-97ad-4552-b78b-7cb706a35666</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div/div[4]/div</value>
+      <webElementGuid>81886422-d902-4db9-9b9d-34eb0029da29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tỷ phú bán giày'])[1]/following::div[2]</value>
+      <webElementGuid>effad368-f9f6-4eb7-9942-ada4264ada53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tôi tài giỏi, bạn cũng thế'])[1]/following::div[4]</value>
+      <webElementGuid>b23bf0ce-3d28-4cd0-8b84-39bc36acd95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>077f6e41-e8b0-430b-97c0-b1f2906e773b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sherlock Holmes_h-full object-cover rounded-lg_1</name>
+   <tag></tag>
+   <elementGuidId>68e5c98a-3883-4b4b-857c-eb7cb45b60d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div/div[2]/main/div/div/div/div/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Tôi tài giỏi, bạn cũng thế&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>65778929-6767-469c-9bb2-593c9d9e8393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://atrqftvmpusermtenrvu.supabase.co/storage/v1/object/public/cover_images/1735745941664-Sachmoi.net-Toi-tai-gioi--ban-cung-the.epubcover.jpg</value>
+      <webElementGuid>c74adff3-5d0a-4993-9ce1-1c180a75a46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Tôi tài giỏi, bạn cũng thế</value>
+      <webElementGuid>f1ae5435-13c9-4d2e-8ded-251595ec4145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full object-cover rounded-lg</value>
+      <webElementGuid>252a94e1-78b1-4f3b-a48d-1e44275df463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-[1420px] mx-auto&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/main[@class=&quot;flex-grow overflow-y-auto&quot;]/div[@class=&quot;flex h-screen mx-auto my-0&quot;]/div[@class=&quot;flex-grow bg-gray-50&quot;]/main[1]/div[@class=&quot;p-6&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 auto-rows-fr&quot;]/div[@class=&quot;bg-white p-2 rounded-lg shadow hover:shadow-md transition-shadow flex flex-col&quot;]/div[@class=&quot;h-52 justify-center flex&quot;]/img[@class=&quot;h-full object-cover rounded-lg&quot;]</value>
+      <webElementGuid>9c545a68-a4c2-4042-8efa-715afd653287</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div/div[2]/main/div/div/div/div/div[2]/div/img</value>
+      <webElementGuid>1170cc11-8080-4e95-bdcf-5136962215d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Tôi tài giỏi, bạn cũng thế']</value>
+      <webElementGuid>e755b65b-be68-4712-9556-281890410213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>22b6666f-29ac-40ff-95e0-54805434be55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://atrqftvmpusermtenrvu.supabase.co/storage/v1/object/public/cover_images/1735745941664-Sachmoi.net-Toi-tai-gioi--ban-cung-the.epubcover.jpg' and @alt = 'Tôi tài giỏi, bạn cũng thế']</value>
+      <webElementGuid>f8751b91-456e-4194-b17b-51cbede4a6b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

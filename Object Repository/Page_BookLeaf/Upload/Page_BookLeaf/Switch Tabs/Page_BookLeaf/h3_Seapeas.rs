@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Seapeas</name>
+   <tag></tag>
+   <elementGuidId>10434521-ee96-4660-8279-d0b3dea01c82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div/a/div/div[2]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.text-lg.font-medium.text-gray-900</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Seapeas Seapeas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7d70c1ba-e42e-45f3-8e09-bc23cfa234a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-lg font-medium text-gray-900</value>
+      <webElementGuid>9d859c64-4d16-4ce3-bfda-3964fd75e45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seapeas</value>
+      <webElementGuid>0175ce48-3c42-480c-9367-2d77332d8e1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full p-10 h-full&quot;]/div[@class=&quot;grid grid-cols-4 mt-6 gap-4&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 auto-rows-fr&quot;]/a[1]/div[@class=&quot;bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow flex items-center cursor-pointer&quot;]/div[2]/h3[@class=&quot;text-lg font-medium text-gray-900&quot;]</value>
+      <webElementGuid>67320a50-067d-4d0e-bb88-71c75b224b38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div/a/div/div[2]/h3</value>
+      <webElementGuid>fbbbd5e6-f281-4f3e-806f-3b2c058f9ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seapeas'])[2]/following::h3[1]</value>
+      <webElementGuid>15059261-763d-471e-8143-60104c6ef388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dodinhhai29904@gmail.com'])[1]/following::h3[1]</value>
+      <webElementGuid>c93f8e10-3268-4af8-97ed-f801c7d68646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>b3918074-84fc-43cd-bc4c-99cc429f0908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Seapeas' or . = 'Seapeas')]</value>
+      <webElementGuid>3a81454b-d47e-4226-93d1-4736eeb42513</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Display Option_text-white h-8 w-8 curso_af81bb</name>
+   <tag></tag>
+   <elementGuidId>0ed71b6c-feea-422f-b1f5-17f6dcb5ba52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Option'])[1]/preceding::*[name()='svg'][5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.text-white.h-8.w-8.cursor-pointer.ml-2.absolute</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>74caddf0-b2cd-4e0c-b6d4-ebb5f5287221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>b8ead40a-6b00-4004-aa7e-68209990e5f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>bf94cebe-8942-43db-9b84-9567de9f9ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e91c867b-4eb6-47aa-a6c9-2037a0230d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>4ac05f8b-7c7a-41f5-873c-b8637df2e2bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white h-8 w-8 cursor-pointer ml-2 absolute</value>
+      <webElementGuid>2d75d641-4725-4898-ad1c-b37828faa43b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>9b53a7a0-7f28-4d16-ad3b-e38e8e899555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>b17d9424-8871-4a59-b861-027bfc9a133b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>39c7d51d-3c83-404c-a5a0-ebd580c4441d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;reader w-screen h-screen flex flex-col absolute top-0 left-0&quot;]/header[@class=&quot;settingBar w-full h-12 bg-red-700  flex flex-row items-center justify-between relative&quot;]/svg[@class=&quot;text-white h-8 w-8 cursor-pointer ml-2 absolute&quot;]</value>
+      <webElementGuid>ed306778-0667-4497-8ab3-4c078bae792f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Option'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>c23fb315-89e2-412c-a642-c447d4e9189e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dark theme'])[1]/preceding::*[name()='svg'][6]</value>
+      <webElementGuid>5f6f9e57-384f-4c9a-851d-4aa6789ea3a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

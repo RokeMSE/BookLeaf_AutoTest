@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Error occurred Invalid code or code may_16c944</name>
+   <tag></tag>
+   <elementGuidId>67a4091e-00bd-4d96-8a58-acab59a2decf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='18']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Error occurred: Invalid code or code may have expired&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14639dd3-3588-4b93-b303-1024aaec6001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error occurred: Invalid code or code may have expired</value>
+      <webElementGuid>7c61f32c-2d48-48cf-b04a-e4e0843ffbef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;18&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[2]</value>
+      <webElementGuid>b16d49b9-1f41-466d-a580-63c04f96d9bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='18']/div/div[2]</value>
+      <webElementGuid>60014ba9-ddad-4caf-b0e3-72589685829d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error 409: User already exists'])[1]/preceding::div[5]</value>
+      <webElementGuid>d2ad8add-d271-4354-b5a7-43300894d4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error 409: User already exists'])[2]/preceding::div[12]</value>
+      <webElementGuid>e4530c4c-8673-4966-b8de-193fd511e1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Error occurred: Invalid code or code may have expired']/parent::*</value>
+      <webElementGuid>e642e468-377e-4371-a63f-59dde5d1837e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]</value>
+      <webElementGuid>11a474d4-8212-47bf-b626-f6c6c3af4c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Error occurred: Invalid code or code may have expired' or . = 'Error occurred: Invalid code or code may have expired')]</value>
+      <webElementGuid>957d322d-32cc-4dba-8ba6-8760ed823d52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Already have an account Sign in now_email</name>
+   <tag></tag>
+   <elementGuidId>512647ed-1d76-4783-a914-29d0efe9fde2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='email']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;email&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter your email&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c31800ce-822a-4ba7-a620-ea1f6064c85d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-2 py-2 rounded-lg border-2 focus:outline-none</value>
+      <webElementGuid>83fc42b7-f28f-4134-ab38-75d334c5b084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>7a786cbb-2779-4e85-9977-fbc317dba6dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>2d137c6f-1389-4470-8c60-5911fa4048c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your email</value>
+      <webElementGuid>55db6b80-87c1-421b-a787-63a7320e0cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-border px-4 lg:w-2/5 md:w-4/5 sm:w-full flex flex-col items-center justify-center&quot;]/form[@class=&quot;flex flex-col items-center justify-center w-full gap-4 min-w-96 max-w-lg&quot;]/input[@class=&quot;w-full px-2 py-2 rounded-lg border-2 focus:outline-none&quot;]</value>
+      <webElementGuid>e3e3cbb3-daf8-48bb-836a-4ab4b27a27a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='email']</value>
+      <webElementGuid>3d8f6675-f2f3-49b2-b626-9ca19c5f2b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/form/input</value>
+      <webElementGuid>053ff567-1b32-4d5f-8dd1-470fed41ac6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>21be40b9-660b-44ea-b4a6-b240377f0cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'email' and @type = 'email' and @placeholder = 'Enter your email']</value>
+      <webElementGuid>c7d2c9be-4f57-4c79-888c-4359de3b3be8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

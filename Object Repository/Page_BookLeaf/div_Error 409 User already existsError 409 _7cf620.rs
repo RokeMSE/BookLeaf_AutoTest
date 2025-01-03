@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Error 409 User already existsError 409 _7cf620</name>
+   <tag></tag>
+   <elementGuidId>592f0b47-cebe-46ac-b62b-84115dd55d69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Toastify__toast-container.Toastify__toast-container--top-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Error 409: User already existsError 409: User already existsError 409: User alre&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8c5fd5e-371d-4a30-a0d7-b80e6c665f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toastify__toast-container Toastify__toast-container--top-center</value>
+      <webElementGuid>b48c3b89-8a87-482a-8ff2-58c98bf650fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error 409: User already existsError 409: User already existsError 409: User already existsError 409: User already existsError 409: User already existsError 409: User already exists</value>
+      <webElementGuid>1253bd0c-c372-4cf2-b9f6-6a1d88846f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Toastify&quot;]/div[@class=&quot;Toastify__toast-container Toastify__toast-container--top-center&quot;]</value>
+      <webElementGuid>31997042-1d3b-4694-8423-745ef3cd7a47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div</value>
+      <webElementGuid>4593c453-5352-4c56-b36f-3876730fade8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>bf3cce15-fe6d-4619-8cfb-dffe3657cabf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Error 409: User already existsError 409: User already existsError 409: User already existsError 409: User already existsError 409: User already existsError 409: User already exists' or . = 'Error 409: User already existsError 409: User already existsError 409: User already existsError 409: User already existsError 409: User already existsError 409: User already exists')]</value>
+      <webElementGuid>8375ef55-2064-405e-9242-43b2a8947ffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

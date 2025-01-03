@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button</name>
+   <tag></tag>
+   <elementGuidId>396a1cd2-b0a9-4165-9588-e489fa92f50d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Tôi tài giỏi, bạn cũng thế‹›$/ >> internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25b81472-c514-4959-895e-764af6558716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;reader w-screen h-screen flex flex-col absolute top-0 left-0&quot;]/div[@class=&quot;h-screen inline-block w-screen&quot;]/div[1]/div[1]/button[1]</value>
+      <webElementGuid>a5dad3ba-a411-444f-aec9-37ed5e930244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/button</value>
+      <webElementGuid>6d8a24ac-78d3-4ff7-9d65-b7841a38f203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Line height'])[1]/following::button[1]</value>
+      <webElementGuid>bb7a18cf-d0a8-41f8-a97a-4866562e90cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Font weight'])[1]/following::button[1]</value>
+      <webElementGuid>b1d876a5-8b0e-4579-a369-fe46ff14532d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tôi tài giỏi, bạn cũng thế'])[2]/preceding::button[1]</value>
+      <webElementGuid>78a07585-6ffa-40a5-9e8f-b38b6fd30354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/preceding::button[1]</value>
+      <webElementGuid>530d572b-2380-4b8c-b355-e30cfaa0420c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>294aebcd-8999-47c5-b1c7-848dfcb7a97f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

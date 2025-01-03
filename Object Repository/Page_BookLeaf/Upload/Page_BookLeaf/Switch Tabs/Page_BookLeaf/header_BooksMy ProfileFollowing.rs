@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_BooksMy ProfileFollowing</name>
+   <tag></tag>
+   <elementGuidId>804470c4-e159-4cf1-8dd5-c50ad686882f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.bg-white.shadow-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=banner</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>6696f44d-7c22-4b62-abf5-16a5bdbd1a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white shadow-md</value>
+      <webElementGuid>25ec6aba-e7f4-498a-b021-6052d88a4c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BooksMy ProfileFollowing</value>
+      <webElementGuid>93475094-9258-4873-994c-a05485134720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-[1420px] mx-auto&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/header[@class=&quot;bg-white shadow-md&quot;]</value>
+      <webElementGuid>2b17bc0d-5f05-40f5-a03c-6b5295e3e04a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/header</value>
+      <webElementGuid>99203caf-72d0-44fc-b867-790c0037aabb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>c86f18e7-7bfc-4d95-90b0-5f428d77266c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'BooksMy ProfileFollowing' or . = 'BooksMy ProfileFollowing')]</value>
+      <webElementGuid>d517e29c-bf0c-45e9-b336-4007110915b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

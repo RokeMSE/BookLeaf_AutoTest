@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Forgot Password_username</name>
+   <tag></tag>
+   <elementGuidId>5497214b-dbf9-4827-b689-6690baec71a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;username&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Username or email&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>75936227-bc08-4f9d-8913-72b70ac10184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-2 py-2 rounded-lg border-2 focus:outline-none</value>
+      <webElementGuid>b0d365b6-ae30-47e3-bb6f-f7f27072b824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>d0ce0332-3006-4587-9b37-4c5afc23f9e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4594a74a-4c8e-411d-905c-bd140d7aeb74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username or email</value>
+      <webElementGuid>367c7763-1493-4430-8790-9b6e00f89028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-border px-4 lg:w-2/5 md:w-4/5 sm:w-full flex flex-col items-center justify-center&quot;]/form[@class=&quot;flex flex-col items-center justify-center w-full gap-4 min-w-96 max-w-lg&quot;]/input[@class=&quot;w-full px-2 py-2 rounded-lg border-2 focus:outline-none&quot;]</value>
+      <webElementGuid>7ffe821b-760d-427b-b874-0023ef5520f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='username']</value>
+      <webElementGuid>7bbe6eb7-9fbc-4627-ba9b-d2b04f56372d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/form/input</value>
+      <webElementGuid>9af92f76-7a14-4c02-8836-0e8bf4650dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>eed5134c-eefc-452d-85e6-60635dbe200b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'username' and @type = 'input' and @placeholder = 'Username or email']</value>
+      <webElementGuid>096af780-d7a9-41a6-8e32-01eb820a93a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

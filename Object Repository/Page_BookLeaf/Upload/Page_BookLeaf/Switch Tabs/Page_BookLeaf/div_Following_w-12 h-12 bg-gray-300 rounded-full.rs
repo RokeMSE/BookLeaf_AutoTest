@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Following_w-12 h-12 bg-gray-300 rounded-full</name>
+   <tag></tag>
+   <elementGuidId>f4c8de83-1531-4a19-b340-cc4a17464dfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div/div[2]/header/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-12.h-12.bg-gray-300.rounded-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>header >> internal:has-text=&quot;rokephamtranyenquyen@gmail.com&quot;i >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>62748104-7a55-408f-a49e-2240a6520aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-12 h-12 bg-gray-300 rounded-full</value>
+      <webElementGuid>ace02878-73c8-490a-82eb-2af327ba0aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-[1420px] mx-auto&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/main[@class=&quot;flex-grow overflow-y-auto&quot;]/div[@class=&quot;flex h-screen mx-auto my-0&quot;]/div[@class=&quot;flex-grow bg-gray-50&quot;]/header[@class=&quot;bg-green-100 p-4 flex justify-between items-center&quot;]/div[@class=&quot;flex items-center gap-4&quot;]/div[@class=&quot;w-12 h-12 bg-gray-300 rounded-full&quot;]</value>
+      <webElementGuid>091d980d-e05e-4e8e-af02-ba1de0126cfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div/div[2]/header/div/div</value>
+      <webElementGuid>1685cc4d-0a64-4abf-8ca2-af3ff66d0b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/header/div/div</value>
+      <webElementGuid>1b64f200-476a-41ca-84e8-dc273e8c3ef1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

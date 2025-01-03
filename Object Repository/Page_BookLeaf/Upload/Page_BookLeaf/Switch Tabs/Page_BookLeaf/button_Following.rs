@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Following</name>
+   <tag></tag>
+   <elementGuidId>09d24a4e-e7cf-4738-b54d-9b662fd3074c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main/div/div[2]/header/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.bg-green-500.text-white.px-4.py-2.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Following&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6f4bbb50-370c-4376-96ca-e9fc62c59abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-green-500 text-white px-4 py-2 rounded</value>
+      <webElementGuid>751c1199-86be-47c3-8660-edf7c143ce36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Following</value>
+      <webElementGuid>5f1ba0c4-fee7-4120-af94-98737bf7824b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-[1420px] mx-auto&quot;]/div[@class=&quot;flex flex-col h-full&quot;]/main[@class=&quot;flex-grow overflow-y-auto&quot;]/div[@class=&quot;flex h-screen mx-auto my-0&quot;]/div[@class=&quot;flex-grow bg-gray-50&quot;]/header[@class=&quot;bg-green-100 p-4 flex justify-between items-center&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;bg-green-500 text-white px-4 py-2 rounded&quot;]</value>
+      <webElementGuid>1ea3adeb-a2a2-4792-b72b-94ffe8fc8c1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main/div/div[2]/header/div[2]/button</value>
+      <webElementGuid>f7018a75-9d5a-4a94-81fa-69cdd221471b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seapeas'])[1]/following::button[1]</value>
+      <webElementGuid>dff5687f-3909-41a1-8c8b-06fadf96db19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Following'])[1]/following::button[1]</value>
+      <webElementGuid>7bd95b19-cf8c-4948-b07e-e35406dbcd36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Block'])[1]/preceding::button[1]</value>
+      <webElementGuid>a7645371-e510-494d-af14-a106b9659474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currently Reading'])[1]/preceding::button[2]</value>
+      <webElementGuid>e23e3ea3-086e-4905-9456-4102c8ac2245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>88b2895d-c3e0-4523-b157-ab5fb545c0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Following' or . = 'Following')]</value>
+      <webElementGuid>4f7511b8-0bb0-4550-a7b5-c137bcc8b4df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
